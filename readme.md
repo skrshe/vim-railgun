@@ -16,5 +16,5 @@ for pick and place plugin management use:\
 for information on how vim plugins work visit [this gist](https://gist.github.com/manasthakur/ab4cf8d32a28ea38271ac0d07373bb53)
 
 ## License
-unlicensed SKrshe 2021.  For more information, please refer to
+unlicense SKrshe 2021.  For more information, please refer to
 <http://unlicense.org/>
