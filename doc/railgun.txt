@@ -1,0 +1,36 @@
+
+*railgun.txt*  Plugin for deleting, changing, and adding "railgunings"
+
+Author:  skrshe <http://krshe.xyz/>
+License: unlicense
+
+This plugin is only available if 'compatible' is not set.
+
+INTRODUCTION                                    *railgun*
+
+This plugin is an indent based workflow for vim to improve code
+layout and consistancy. practicaly an interactive code styler.
+
+For example consider the following (an asterisk (^) is used to
+denote the cursor position):
+
+fn {
+^
+    body
+    ^
+    internal fn {
+    ^
+        internal fn body
+        ^
+    }
+    ^
+}
+^
+
+MAPPINGS                                        *railgun-mappings*
+TARGETS                                         *railgun-targets*
+REPLACEMENTS                                    *railgun-replacements*
+CUSTOMIZING                                     *railgun-customizing*
+ISSUES                                          *railgun-issues*
+
+ vim:tw=78:ts=8:ft=help:norl:
