@@ -1,10 +1,18 @@
-# railgun.vim
-railgun.vim is plugin that tries to implement dynamic interactive indentination
+# railgun.vim - stick to indents
+
+## Discription
+railgun.vim is plugin that tries to implement dynamic interactive indentation
 for vim (i.e interactive code styling).
 
 this workflow is directly inspired by how Allen Webster's [4coder](http://4coder.net/) interacts
 with intentation in code.\
 ![](res/4coder_autoindent.gif)
+
+## Implementation
+two parts:
+
+- stick to indent [0%]
+- enforce indent [0%]
 
 ## Disclammer
 project is yet to be implemented
